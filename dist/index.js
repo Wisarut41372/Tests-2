@@ -22,7 +22,7 @@
 // ids.forEach(i => {
 //      console.log(`ID: ${i}`);
 // });
-// console.log(`ฉันชื่อ ${myName} This is my frind`);
+// console.log(`I am ${myName} This is my frind`);
 // Myfriend.forEach(i => {
 //     console.log(`- ${i}`);
 // });
@@ -147,7 +147,6 @@
 //   move():string
 //   eat():string
 //}
-//Wisarut
 //const student : Human = {
 //   id:555,
 //  name:"Moss",
@@ -164,7 +163,6 @@
 //   id: number;
 //   name: string;
 //  age: number;
-//arg-constructor
 //    constructor(id:number,name:string,age:number){
 //        this.id = id;
 //        this.name = name;
